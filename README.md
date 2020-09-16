@@ -5,3 +5,6 @@ Evaluate and Analyze Employee's Performance based on K-Protoypes Clustering.
 
 .py for running with UI. 
 streamlit run EmployeeAssessment.py
+
+![alt text](https://github.com/sandeshshrestha45/Employee-Assessment-Engine/blob/master/screenshot.JPG?raw=true)
+
